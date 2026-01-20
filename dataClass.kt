@@ -1,4 +1,4 @@
-/* 15/01/2026 // parameters, listOf, etc.  === I had to use AI and read documentation to fix problems like
+/* 15/01/2026 // parameters, listOf, etc.  === I had to use AI and read documentation to solve problems like
 printing entire variables.
 
 (kotlin, androidArch, androidExpress, compose): Products (online courses)
