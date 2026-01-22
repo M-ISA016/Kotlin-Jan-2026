@@ -4,7 +4,7 @@ fun main() {
 
     when (result) {
       in "aeiou" -> println("Vowel")
-        in "bcdfghjklmnprrstvwkyz" -> println("Consonant")
+        in "bcdfghjklmnpqrstvwxyz" -> println("Consonant")
 
         else -> println("Invalid character")
     }
