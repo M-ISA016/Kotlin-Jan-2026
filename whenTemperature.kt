@@ -1,4 +1,4 @@
-fun main() { // Remember to use "in"
+fun main() { // Remember to use "in" (gemini idea)
     println("Insert the current temperature:")
     val temperature = readln().toInt()
 
