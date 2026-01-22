@@ -5,7 +5,7 @@ fun main() { // Remember to use "in"
     when(temperature) {
       in -100..14 -> println("Cold")
         in 15..25 -> println("Pleasant")
-        in 25..100 -> println("Hot")
+        in 26..100 -> println("Hot")
     }
 }
 
