@@ -1,4 +1,4 @@
-fun main() {
+fun main() { 
     println("Salary Bonus Calculator. Put your number of years working in the enterprise.")
     val enterpriseYears = readln().toInt()
 
